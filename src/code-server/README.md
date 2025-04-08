@@ -7,7 +7,7 @@ VS Code in the browser
 
 ```json
 "features": {
-    "ghcr.io/coder/devcontainer-features/code-server:1": {}
+    "ghcr.io/DanielleMaywood/devcontainer-features/code-server:1": {}
 }
 ```
 
@@ -25,4 +25,4 @@ VS Code in the browser
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/DanielleMaywood/devcontainer-features/blob/main/src/code-server/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
